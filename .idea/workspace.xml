@@ -5,53 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34d6e6c1-a873-4783-889a-00cbc1718ce7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/anorbank4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/.idea/Anorbank 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/history.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/9b8f963069a1421a93a113e2dffd754f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/Anorbank-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/login_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/img/magnifying-glass-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank 4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anorbank" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anorbank/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/history.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anorbank/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/img/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anorbank/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anorbank/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anorbank/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Anorbank/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/._Anorbank 3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._blocks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._img" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/._style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/.vscode/._settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/blocks/.__app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/blocks/.__header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/blocks/.__modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._9b8f963069a1421a93a113e2dffd754f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._Anorbank-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._login_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/Anorbank 3/img/._magnifying-glass-solid.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +39,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691514928100</updated>
-      <workItem from="1691514929070" duration="417000" />
+      <workItem from="1691514929070" duration="1343000" />
     </task>
     <servers />
   </component>
