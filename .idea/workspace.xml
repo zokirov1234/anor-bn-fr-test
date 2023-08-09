@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34d6e6c1-a873-4783-889a-00cbc1718ce7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anorbank/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Anorbank/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Anorbank" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Ti9FAIZxLLRG4Orl0vSFNYN7YV" />
   <component name="ProjectViewState">
@@ -51,7 +44,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691514928100</updated>
-      <workItem from="1691514929070" duration="1343000" />
+      <workItem from="1691514929070" duration="2163000" />
+      <workItem from="1691541527641" duration="15000" />
     </task>
     <servers />
   </component>
